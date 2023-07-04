@@ -73,7 +73,7 @@ Motherboard: Any (Might not be 100% compatible with some Asus models)
 ```sh-session
 - Tickrate
 - AimBot
-
+```
 ---
 
 ## <a id="download"></a>📁 〢 Download
