@@ -1,6 +1,6 @@
 <div align="left">
 <a href="https://github.com/Juzoka"><img src="https://img.shields.io/github/stars/Juzoka/AHK-WallHack-CSGO?color=00dd00&style=for-the-badge"></a>
-<a href="https://github.com/Juzoka/AHK-WallHack-CSGO/releases/tag/Unknown"><img src="https://img.shields.io/github/downloads/Juzoka/AHK-WallHack-CSGO/total?color=00dd00&style=for-the-badgetotal?color=00dd00&style=for-the-badge"></a>
+<a href="https://github.com/Juzoka/AHK-WallHack-CSGO/releases/tag/Unknown"><img src="https://img.shields.io/github/downloads/Juzoka/AHK-WallHack-CSGO/total?color=00dd00&style=for-the-badge"></a>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff"></a>
 </div>
 
