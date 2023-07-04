@@ -74,6 +74,7 @@ Motherboard: Any (Might not be 100% compatible with some Asus models)
 - Tickrate
 - AimBot
 ```
+
 ---
 
 ## <a id="download"></a>📁 〢 Download
