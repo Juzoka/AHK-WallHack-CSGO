@@ -26,7 +26,7 @@ This project was made for educational purposes and personal use. By using our se
 
 
 
-https://github.com/Kryptxne/VALORANT-INCEPTION/assets/89605624/b49749fc-99ba-4bd1-af46-4b60279f90cb
+Soon...
 
 
 
@@ -35,7 +35,7 @@ https://github.com/Kryptxne/VALORANT-INCEPTION/assets/89605624/b49749fc-99ba-4bd
 ## <a id="overview"></a>🌌 〢 Overview
 AHK Pack
 
-[Release](https://github.com/Kryptxne/VALORANT-INCEPTION/releases/tag/Unknown).
+[Release](https://github.com/Juzoka/AHK-WallHack-CSGO/releases).
 
 **Compability**
 ```sh-session
@@ -66,7 +66,7 @@ Motherboard: Any (Might not be 100% compatible with some Asus models)
 
 ## <a id="download"></a>📁 〢 Download
 
-### Please check the [releases](https://github.com/Kryptxne/VALORANT-INCEPTION/releases/tag/Unknown) tab to find the latest upload.
+### Please check the [releases](https://github.com/Juzoka/AHK-WallHack-CSGO/releases) tab to find the latest upload.
 
 ---
 
@@ -75,7 +75,7 @@ Motherboard: Any (Might not be 100% compatible with some Asus models)
 > All dates are in DD/MM/YYYY
 
 ```diff
-v1.0 | 04/07/23
+v1.0 | 04/07/2023
 + Stable Build Release
 ```
 
