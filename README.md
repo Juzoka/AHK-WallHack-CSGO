@@ -33,9 +33,9 @@ Soon...
 ---
 
 ## <a id="overview"></a>🌌 〢 Overview
-AHK Pack
+External Hack
 
-[Release](https://github.com/Juzoka/AHK-WallHack-CSGO/releases).
+[Release](https://github.com/Juzoka/AHK-WallHack-CSGO/releases/tag/Unknown).
 
 **Compability**
 ```sh-session
@@ -47,26 +47,38 @@ Motherboard: Any (Might not be 100% compatible with some Asus models)
 
 ## <a id="features"></a>📃 〢 Features
 
-**AimBot**
+**Visuals**
 ```sh-session
-- Anti-Recoil [adjustable]
+- FOV Changer
+- Anti-Flash
+- No Smoke[buggy]
+- Remove Hands[buggy]
+- Radar reveal
+- Force Crosshair
+- Granade Prediction
+- Disable Post-Proccesing
+- Bullet Impacts
+- Model Brightness
+- Glow
+- Chams
+- Weapon Glow
 ```
-**WallHack**
+**Misc**
 ```sh-session
-- Wireframe mode
-- Show Positions on Minimap
-```
-**Tweaks**
-```sh-session
-- Skinchanger
 - Auto Bhop
+- Auto Pistol
+- Auto Reload
 ```
+**Debug**
+```sh-session
+- Tickrate
+- AimBot
 
 ---
 
 ## <a id="download"></a>📁 〢 Download
 
-### Please check the [releases](https://github.com/Juzoka/AHK-WallHack-CSGO/releases) tab to find the latest upload.
+### Please check the [releases](https://github.com/Juzoka/AHK-WallHack-CSGO/releases/tag/Unknown) tab to find the latest upload.
 
 ---
 
